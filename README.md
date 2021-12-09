@@ -5,4 +5,3 @@ index
 order
 auht
 reg
-pages
