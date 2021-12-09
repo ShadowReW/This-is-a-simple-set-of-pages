@@ -1,2 +1,2 @@
 # frontend_public
-Here I publish my layout.
+This is a set of simple responsive pages in a bundle Html+Css without JS
